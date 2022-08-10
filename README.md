@@ -25,4 +25,4 @@ Everybody who wants to use this application, ¡¡¡
 # Enjoy it !!!
 
 ![Main Screen](Bytecoin.png)
-![Main Screen](Bytecoin2.png)
+![Main Screen](ByteCoin2.png)
